@@ -1,5 +1,5 @@
 # EDA-Analytics-baseball
-> Colab nootbook : https://github.com/Hyun-Jun-Lee/EDA-Analytics-baseball/blob/main/EDA%26Analytics_MLBhitter.ipynb
+> Colab nootbook : https://github.com/Hyun-Jun-Lee/EDA-Analytics-baseball/blob/main/EDA%26Analytics_MLBhitter.ipynb <br>
 > nbi views : https://nbviewer.org/github/Hyun-Jun-Lee/EDA-Analytics-baseball/blob/main/EDA%26Analytics_MLBhitter.ipynb
 
 ## 목차
