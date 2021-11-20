@@ -11,6 +11,10 @@
     - [EDA & Analytics](#eda--analytics)
       - [Trend Change Per Season](#trend-change-per-season)
       - [Who is The Strongest Hitter in 00s?](#who-is-the-strongest-hitter-in-00s)
+      - [Who is The Strongest Hitter in 10s?](#who-is-the-strongest-hitter-in-10s)
+      - [Albert Pujols vs Mike Trout](#albert-pujols-vs-mike-trout)
+    - [ToDoList](#todolist)
+
 
 
 ***
@@ -102,3 +106,59 @@ K%, BB/K를 통해 강하게 타격함에따라 스윙이 커져서 타석당 �
     3. 타/출/장/OPS = `0.332/0.422/0.620/1.042` -> 역사상 최고의 10년이라고 뽑을 수 있을만한 아름다운 기본 Stat
   - 수상기록<br>
   ![image](https://user-images.githubusercontent.com/76996686/142729981-8180cb3c-52a3-4bae-9b4e-4e303dd924e1.png)
+
+<br>
+
+#### Who is The Strongest Hitter in 10s?
+
+- Top 5 Homerun Leader in 10s
+
+![image](https://user-images.githubusercontent.com/76996686/142730155-16da5e9d-bfe2-43dd-b10d-7f4282e5878d.png)
+
+<br>
+
+- Top 5 HR Leader Detail Stat
+
+![image](https://user-images.githubusercontent.com/76996686/142730162-d92a3df1-319b-4d7d-bf32-d0ab566d3194.png)
+
+<br>
+
+- My choice is Mike Trout
+  - 선정이유
+    1. 총 홈런 개수는 5등이지만,ISO(순수장타율)는 `0.268`로 1등
+    2. OBP : `0.421` -> 데이터 야구 시대에서 중요시 여겨지고 평균적으로 가장 기복이 없다고 여겨지는 Stat
+    3. BB : `863` -> 타 선수 대비 압도적 기록, 타격에 기복이 있을시에도 꾸준히 활약해 줄 수 있는 부분 
+    4. 3B : `65` -> 장타력 뿐만 아니라, 스피드 까지 갖추었음
+  - 수상기록<br>
+  ![image](https://user-images.githubusercontent.com/76996686/142730193-af350c7b-fbdc-479b-8640-68a3700adfd0.png)
+
+<br>
+
+#### Albert Pujols vs Mike Trout
+
+- Comparison by age
+
+  1. vs OPS+
+  ![image](https://user-images.githubusercontent.com/76996686/142730280-5f585107-1d6a-4f61-96c3-92f800b7a65c.png)
+  * OPS+ : 리그 수준 차이, 다른 시기 활동한 타자들을 비교하기 위해 만들어진 리그 평균 대비 OPS 지표(OPS+=150 -> 해당 시즌 리그 평균 대비 1.5배 우수한 OPS)
+
+  2. vs HR
+  ![image](https://user-images.githubusercontent.com/76996686/142730358-1c137e88-ae4d-45cf-8344-ccacda58a08d.png)
+
+  3. vs ISO
+  ![image](https://user-images.githubusercontent.com/76996686/142730381-d3df71a5-c7ea-482a-842e-46925c2ce8ac.png)
+
+<br>
+
+- Comparison by Accumulated stat
+
+![image](https://user-images.githubusercontent.com/76996686/142730427-81ab7037-d1c7-4903-b6f4-a7756f49140b.png)
+
+<br>
+
+### ToDoList
+
+- [ ] 2020,2021 데이터 수집
+- [ ] WAR, WRC, WPA 등 다양한 기록 데이터 수집(by Crawling)
+- [ ] Time Series Forecasting(ARIMA, LSTM)
+- [ ] 예측 및 Stat 검색하는 WEB 구현 해보기
