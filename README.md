@@ -161,4 +161,4 @@ K%, BB/K를 통해 강하게 타격함에따라 스윙이 커져서 타석당 �
 - [ ] 2020,2021 데이터 수집
 - [ ] WAR, WRC, WPA 등 다양한 기록 데이터 수집(by Crawling)
 - [ ] Time Series Forecasting(ARIMA, LSTM)
-- [ ] 예측 및 Stat 검색하는 WEB 구현 해보기
+- [ ] 예측 및 EDA 검색하는 WEB 구현 해보기
